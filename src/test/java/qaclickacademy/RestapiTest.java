@@ -8,6 +8,8 @@ public class RestapiTest {
 	public void JiraTest()
 	{
 		System.out.println("Testing Jira Tool");
+		System.out.println("Testing Bugzilla Tool1");
+		System.out.println("Testing TFS Tool1");
 	}
 
 	@Test	
