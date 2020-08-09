@@ -29,4 +29,13 @@ public class SeleniumTest {
 		//demo 222
 	}
 	
+	public void Mobileview()
+	{
+		System.out.println("Mobileview UI");
+		System.out.println("Mobileview UI 1");
+		System.out.println("Mobileview UI 2");
+		//test bu demo
+		//demo 222
+	}
+	
 }
