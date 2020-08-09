@@ -33,5 +33,11 @@ public class AppiumTest {
 		System.out.println("Git commit 13 by GITdemo");
 
 	}
-
+	
+	public void ipadTest()
+	{
+		System.out.println("Testing iPad Device 1");
+		System.out.println("Testing iPad Device 2");
+		
+	}
 }

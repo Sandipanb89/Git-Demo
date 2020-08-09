@@ -18,4 +18,10 @@ public class RestapiTest {
 		System.out.println("Testing API in Twitter");
 		
 	}
+	
+	public void FBApi()
+	{
+		System.out.println("Testing API in FB");
+		
+	}
 }
