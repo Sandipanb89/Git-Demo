@@ -15,7 +15,8 @@ public class SeleniumTest {
 		System.out.println("Elements UI");
 		System.out.println("Elements UI 1");
 		System.out.println("Elements UI 2");
-		
+		//test bu demo
+		//demo 222
 	}
 	
 }
