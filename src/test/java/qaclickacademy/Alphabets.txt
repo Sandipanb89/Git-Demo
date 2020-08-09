@@ -7,15 +7,12 @@ e
 f
 g
 h
-i
-j
-k
-l
- Number 
+
+ Number
  1
  2
  3
  4
  5
- 6
+
  
