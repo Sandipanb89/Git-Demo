@@ -15,6 +15,12 @@ public class AppiumTest {
 	public void iOSTest()
 	{
 		System.out.println("Testing iOS Device");
+		
+		System.out.println("Git commit 1 by Sandy");
+		System.out.println("Git commit 2 by Sandy");
+		System.out.println("Git commit 3 by Sandy");
+		System.out.println("Git commit 4 by Sandy");
+		System.out.println("Git commit 5 by Sandy");
 	}
 
 }
