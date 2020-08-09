@@ -21,6 +21,11 @@ public class AppiumTest {
 		System.out.println("Git commit 3 by Sandy");
 		System.out.println("Git commit 4 by Sandy");
 		System.out.println("Git commit 5 by Sandy");
+		
+		System.out.println("Git commit 10 by GITdemo");
+		System.out.println("Git commit 11 by GITdemo");
+		System.out.println("Git commit 12 by GITdemo");
+		System.out.println("Git commit 13 by GITdemo");
 	}
 
 }
